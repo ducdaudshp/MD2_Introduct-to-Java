@@ -14,7 +14,7 @@ public class ptbacnhat {
             System.out.printf("Kết quả x=%f\n",answer);
         }
         else if (b==c){
-            System.out.print("x = 0");
+            System.out.print("PT đúng với mọi x");
         }
         else{
             System.out.println("Vô nghiệm");
